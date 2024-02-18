@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics, crypto, technical analysis.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on skweak, mxnet, pytorch.
-- 📫 How to reach me casino.rgmla@gmail.com
+- 📫 How to reach me crisdalori@gmail.com
 
 <!---
 DanRGMLA/DanRGMLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
